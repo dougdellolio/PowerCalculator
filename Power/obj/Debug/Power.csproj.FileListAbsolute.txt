@@ -1,6 +1,0 @@
-c:\users\doug\documents\visual studio 2015\Projects\Power\Power\bin\Debug\Power.dll
-c:\users\doug\documents\visual studio 2015\Projects\Power\Power\bin\Debug\Power.pdb
-c:\users\doug\documents\visual studio 2015\Projects\Power\Power\bin\Debug\nunit.framework.dll
-c:\users\doug\documents\visual studio 2015\Projects\Power\Power\bin\Debug\nunit.framework.xml
-c:\users\doug\documents\visual studio 2015\Projects\Power\Power\obj\Debug\Power.dll
-c:\users\doug\documents\visual studio 2015\Projects\Power\Power\obj\Debug\Power.pdb
